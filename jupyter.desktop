@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=x.y
+Name=jupyter
+Comment=Choisir l'environnement et le navigateur pour Jupyter Notebook 
+Exec=sh /usr/bin/jupyter.sh
+Icon=/usr/share/pixmaps/jupyter.png
+Terminal=false
+Type=Application
+Categories=Development;
+
